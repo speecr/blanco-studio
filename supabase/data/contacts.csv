@@ -1,0 +1,4 @@
+id,artist_id,name,email,phone,type,status,priority_score,total_purchases,notes,created_at,updated_at
+e290f1ee-6c54-4b01-90e6-d701748f0851,00000000-0000-0000-0000-000000000000,Sarah Thompson,sarah.thompson@example.com,+1234567890,gallery,active,85,3,Leading contemporary gallery in NYC. Interested in large-scale works.,2024-03-26 00:00:00+00,2024-03-26 00:00:00+00
+e290f1ee-6c54-4b01-90e6-d701748f0852,00000000-0000-0000-0000-000000000000,Michael Chen,michael.chen@example.com,+1987654321,collector,active,92,2,Corporate collection manager focuses on emerging artists,2024-03-26 00:00:00+00,2024-03-26 00:00:00+00
+e290f1ee-6c54-4b01-90e6-d701748f0853,00000000-0000-0000-0000-000000000000,Emma Davis,emma.davis@example.com,+1122334455,curator,potential,75,0,Independent curator specializing in abstract art,2024-03-26 00:00:00+00,2024-03-26 00:00:00+00

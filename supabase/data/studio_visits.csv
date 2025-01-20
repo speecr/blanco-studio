@@ -1,0 +1,3 @@
+id,artist_id,collector_id,date,time,status,reason,reminders,created_at,updated_at
+f290f1ee-6c54-4b01-90e6-d701748f0851,00000000-0000-0000-0000-000000000000,e290f1ee-6c54-4b01-90e6-d701748f0851,2024-04-02,14:00:00,confirmed,Interested in recent works for upcoming exhibition,"{""email"": true, ""sms"": true}",2024-03-26 00:00:00+00,2024-03-26 00:00:00+00
+f290f1ee-6c54-4b01-90e6-d701748f0852,00000000-0000-0000-0000-000000000000,e290f1ee-6c54-4b01-90e6-d701748f0852,2024-04-09,11:00:00,pending,Collection review for corporate office,"{""email"": true, ""sms"": false}",2024-03-26 00:00:00+00,2024-03-26 00:00:00+00

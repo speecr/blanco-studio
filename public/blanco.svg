@@ -1,0 +1,5 @@
+<svg width="1000" height="200" viewBox="0 0 1000 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 0H1000V200H0V0Z" fill="black"/>
+  <path d="M100 50H900V150H100V50Z" fill="white"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial Black" font-size="100" fill="black">BLANCO</text>
+</svg>
